@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "x823p1eqTjFIrF6YtITBUFuEKCYSL3zeIXrPppPCH2RVu0HI+mQFKptMcpvV0bDiAblagnhvOEmChy86bpKUyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Woafi\\Desktop\\Tanvir\\Social Networking Site\\social-networking-site-using-net5-angular\\NoorBook\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Woafi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Woafi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Woafi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Woafi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Woafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Woafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
